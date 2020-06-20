@@ -1,6 +1,6 @@
 # automation_tools
 
-## Requiremnts for 
+## Requirements for 
 [PDF Merger](https://github.com/roboticsengineer93/automation_tools/blob/master/pdf_merger.py) -
 This script will merge the pdfs in a directory into a single pdf.
 
