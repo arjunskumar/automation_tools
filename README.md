@@ -13,3 +13,14 @@ This script will check for internet connection status every n seconds
 ```
 python3 wifi_notifier.py
 ```
+
+[Youtube Downloader]()
+This script will download youtube videos
+
+```
+pip3 install PySimpleGUI
+pip3 install pytube3
+
+python3 youtube_downloader.py
+```
+
