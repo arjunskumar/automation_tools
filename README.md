@@ -14,7 +14,7 @@ This script will check for internet connection status every n seconds
 python3 wifi_notifier.py
 ```
 
-[Youtube Downloader]()
+[Youtube Downloader](https://github.com/roboticsengineer93/automation_tools/blob/master/youtube_downloader.py)
 This script will download youtube videos
 
 ```
@@ -24,3 +24,10 @@ pip3 install pytube3
 python3 youtube_downloader.py
 ```
 
+[Image Resizer](https://github.com/roboticsengineer93/automation_tools/blob/master/image_resize.py)
+This script will resize the input image 
+
+```
+
+python3 image_resize.py --input_file=image.jpg -w=256 -h=256"
+```
