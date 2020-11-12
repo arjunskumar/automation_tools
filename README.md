@@ -31,3 +31,11 @@ This script will resize the input image
 
 python3 image_resize.py --input_file=image.jpg -w=256 -h=256"
 ```
+[IP camera video saver](https://github.com/arjunskumar/automation_tools/blob/master/video_rtsp_saver.py)
+This script will read and write from IP camera
+
+```
+
+python3 video_rtsp_saver.py
+
+```
