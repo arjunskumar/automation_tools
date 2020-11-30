@@ -2,7 +2,7 @@
 
 
 <details>
-  <summary>[PDF Merger](https://github.com/roboticsengineer93/automation_tools/blob/master/pdf_merger.py) </summary>
+  <summary> [PDF Merger](https://github.com/roboticsengineer93/automation_tools/blob/master/pdf_merger.py) </summary>
   This script will merge the pdfs in a directory into a single pdf.
 
 ```
@@ -13,11 +13,14 @@ python3 pdf_merger.py
 
 </details>
 
-[WiFi Notifier](https://github.com/roboticsengineer93/automation_tools/blob/master/wifi_notifier.py) - 
+<details>
+ <summary> 
+[WiFi Notifier](https://github.com/roboticsengineer93/automation_tools/blob/master/wifi_notifier.py) </summary> 
 This script will check for internet connection status every n seconds
 ```
 python3 wifi_notifier.py
 ```
+</details>
 
 [Youtube Downloader](https://github.com/roboticsengineer93/automation_tools/blob/master/youtube_downloader.py)
 This script will download youtube videos
