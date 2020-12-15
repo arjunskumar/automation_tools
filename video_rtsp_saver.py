@@ -1,5 +1,4 @@
 import cv2
-import numpy as np
 
 # Create a VideoCapture object
 cap = cv2.VideoCapture('rtsp://admin:123456@192.168.55.97/H264?ch=1&subtype=0')
